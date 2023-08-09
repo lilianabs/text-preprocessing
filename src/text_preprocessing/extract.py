@@ -9,4 +9,4 @@ def extract_hashtags(txt: str):
     Returns:
         list: List that contains all hashtags
     """
-    return re.findall(r'#\w+', txt)
+    return re.findall(r'(?<!\S)#\S+|\S+#(?!\S)', txt)
