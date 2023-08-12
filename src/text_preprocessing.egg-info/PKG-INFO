@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: text-preprocessing
+Version: 0.0.1
+Summary: A small collection of functions for preprocessing text.
+Author-email: lilianabs <author@example.com>
+Project-URL: Homepage, https://github.com/lilianabs/text_preprocessing
+Project-URL: Bug Tracker, https://github.com/lilianabs/text_preprocessing/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # text-preprocessing
 
 A Python package performs a small collection of functions for preprocessing text. It contains the following functions from a given text:
