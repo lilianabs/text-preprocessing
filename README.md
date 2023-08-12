@@ -1,6 +1,6 @@
 # text-preprocessing
 
-A Python package performs a small collection of functions for preprocessing text data. It contains the following functions from a given text:
+A Python package performs a small collection of functions for preprocessing text. It contains the following functions from a given text:
 
 * Extracts:
   * Hashtags
