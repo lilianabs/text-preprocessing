@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/text_preprocessing/__init__.py
+src/text_preprocessing/extract.py
+src/text_preprocessing/remove.py
+src/text_preprocessing.egg-info/PKG-INFO
+src/text_preprocessing.egg-info/SOURCES.txt
+src/text_preprocessing.egg-info/dependency_links.txt
+src/text_preprocessing.egg-info/top_level.txt
+tests/test_extract.py
+tests/test_remove.py
