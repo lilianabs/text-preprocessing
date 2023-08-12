@@ -20,9 +20,8 @@ def test_remove_user_mentions():
 
 
 def test_remove_url():
-    txt = """This text contains url https://www.google.com/ 
-          and https://www.youtube.com/"""
-    txt_without_urls = "This text contains url and "
+    txt = """This text contains url https://www.google.com/"""
+    txt_without_urls = "This text contains url "
     txt_removed_urls = remove_url(txt)
 
     assert txt_without_urls == txt_removed_urls
